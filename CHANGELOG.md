@@ -4,6 +4,18 @@
 
 [1]: https://pypi.org/project/bigframes/#history
 
+## [0.20.0](https://github.com/googleapis/python-bigquery-dataframes/compare/v0.19.2...v0.20.0) (2024-01-24)
+
+
+### Features
+
+* Update cut to work without labels = False and show intervals as dict ([#335](https://github.com/googleapis/python-bigquery-dataframes/issues/335)) ([4ff53db](https://github.com/googleapis/python-bigquery-dataframes/commit/4ff53db48133b817bec5f123b634690244a610d3))
+
+
+### Bug Fixes
+
+* Series iteration correctly returns values instead of index ([#339](https://github.com/googleapis/python-bigquery-dataframes/issues/339)) ([2c6af9b](https://github.com/googleapis/python-bigquery-dataframes/commit/2c6af9ba8b362dae39a6e082cdc816c955c73517))
+
 ## [0.19.2](https://github.com/googleapis/python-bigquery-dataframes/compare/v0.19.1...v0.19.2) (2024-01-22)
 
 
